@@ -1,0 +1,261 @@
+[
+  {
+    "file": "src/components/layout/FloatingButtons.tsx",
+    "wrapperLine": 14,
+    "iconLine": 16,
+    "wrapperText": "className=\"group relative flex items-center justify-center w-14 h-14 bg-accent hover:bg-accent/95 text-white rounded-full shadow-xl shadow-red-600/30 transition-all border-2 border-white/20 cursor-pointer\"",
+    "iconText": "<Truck className=\"w-6 h-6 animate-pulse\" />"
+  },
+  {
+    "file": "src/components/layout/Footer.tsx",
+    "wrapperLine": 55,
+    "iconLine": 56,
+    "wrapperText": "<div className=\"w-8 h-8 rounded-lg bg-primary/30 flex items-center justify-center text-white\">",
+    "iconText": "<MapPin className=\"w-4 h-4\" />"
+  },
+  {
+    "file": "src/components/sections/AboutAndServices.tsx",
+    "wrapperLine": 165,
+    "iconLine": 166,
+    "wrapperText": "<div className=\"absolute -top-7 right-6 w-14 h-14 bg-primary text-white rounded-xl flex items-center justify-center shadow-lg group-hover:bg-accent group-hover:shadow-accent/30 transition-all duration-300 border-2 border-white\">",
+    "iconText": "<Icon className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/components/sections/AboutAndServices.tsx",
+    "wrapperLine": 279,
+    "iconLine": 280,
+    "wrapperText": "<div className=\"w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center backdrop-blur-sm\">",
+    "iconText": "<Shield className=\"w-6 h-6 text-white\" />"
+  },
+  {
+    "file": "src/components/sections/HaulageSection.tsx",
+    "wrapperLine": 105,
+    "iconLine": 106,
+    "wrapperText": "<div className=\"absolute bottom-3 left-3 w-10 h-10 rounded-lg bg-accent text-white flex items-center justify-center shadow-md\">",
+    "iconText": "<Icon className=\"w-5 h-5\" />"
+  },
+  {
+    "file": "src/components/sections/HeroAndActions.tsx",
+    "wrapperLine": 190,
+    "iconLine": 191,
+    "wrapperText": "<div className=\"w-12 h-12 rounded-[50px] bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-accent group-hover:shadow-md group-hover:shadow-accent/30 transition-all duration-300 shrink-0\">",
+    "iconText": "<Icon className=\"w-6 h-6 text-primary group-hover:text-white transition-colors duration-300\" />"
+  },
+  {
+    "file": "src/components/sections/PartsAndWhyUs.tsx",
+    "wrapperLine": 110,
+    "iconLine": 111,
+    "wrapperText": "<div className=\"w-14 h-14 rounded-xl bg-accent/20 border border-accent/30 flex items-center justify-center mb-6 group-hover:bg-accent group-hover:shadow-lg group-hover:shadow-accent/30 transition-all duration-300\">",
+    "iconText": "<Icon className=\"w-7 h-7 text-accent group-hover:text-white transition-colors\" />"
+  },
+  {
+    "file": "src/pages/BodyWorks.tsx",
+    "wrapperLine": 158,
+    "iconLine": 159,
+    "wrapperText": "<div className=\"w-14 h-14 bg-accent/10 rounded-xl flex items-center justify-center mb-6 group-hover:bg-accent transition-colors\">",
+    "iconText": "<Icon className=\"w-7 h-7 text-primary group-hover:text-white transition-colors\" />"
+  },
+  {
+    "file": "src/pages/BodyWorks.tsx",
+    "wrapperLine": 239,
+    "iconLine": 240,
+    "wrapperText": "<div className=\"w-16 h-16 bg-white rounded-xl flex items-center justify-center mx-auto mb-4 shadow-sm text-primary\">",
+    "iconText": "<Icon className=\"w-8 h-8\" />"
+  },
+  {
+    "file": "src/pages/Booking.tsx",
+    "wrapperLine": 223,
+    "iconLine": 226,
+    "wrapperText": "\"w-12 h-12 rounded-xl flex items-center justify-center shrink-0 transition-colors\",",
+    "iconText": "<Icon className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/pages/Careers.tsx",
+    "wrapperLine": 219,
+    "iconLine": 220,
+    "wrapperText": "<div className=\"w-14 h-14 bg-white rounded-xl shadow-sm flex items-center justify-center mb-6 group-hover:bg-accent transition-colors\">",
+    "iconText": "<Icon className=\"w-7 h-7 text-primary group-hover:text-white transition-colors\" />"
+  },
+  {
+    "file": "src/pages/Contact.tsx",
+    "wrapperLine": 111,
+    "iconLine": 112,
+    "wrapperText": "<div className={cn(\"w-12 h-12 rounded-xl flex items-center justify-center mb-4 transition-colors\", option.bg, option.color)}>",
+    "iconText": "<Icon className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/pages/Contact.tsx",
+    "wrapperLine": 217,
+    "iconLine": 218,
+    "wrapperText": "<div className=\"w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center shrink-0\">",
+    "iconText": "<Icon className=\"w-5 h-5 text-primary\" />"
+  },
+  {
+    "file": "src/pages/Fleet.tsx",
+    "wrapperLine": 143,
+    "iconLine": 144,
+    "wrapperText": "<div className=\"w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:bg-accent transition-colors\">",
+    "iconText": "<Icon className=\"w-7 h-7 text-primary group-hover:text-white transition-colors\" />"
+  },
+  {
+    "file": "src/pages/Fleet.tsx",
+    "wrapperLine": 171,
+    "iconLine": 172,
+    "wrapperText": "<div className=\"w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center mb-4 text-primary\">",
+    "iconText": "<Icon className=\"w-8 h-8\" />"
+  },
+  {
+    "file": "src/pages/Haulage.tsx",
+    "wrapperLine": 393,
+    "iconLine": 394,
+    "wrapperText": "<div className=\"w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center text-primary font-bold\">",
+    "iconText": "<Truck className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/pages/Haulage.tsx",
+    "wrapperLine": 509,
+    "iconLine": 510,
+    "wrapperText": "<div className=\"w-10 h-10 rounded-xl bg-accent/10 text-accent flex items-center justify-center group-hover:bg-accent group-hover:text-white transition-colors shrink-0\">",
+    "iconText": "<IconComponent className=\"w-5 h-5\" />"
+  },
+  {
+    "file": "src/pages/Haulage.tsx",
+    "wrapperLine": 586,
+    "iconLine": 587,
+    "wrapperText": "<div className=\"w-8 h-8 rounded-lg bg-primary/10 text-primary flex items-center justify-center group-hover:bg-accent group-hover:text-white transition-colors\">",
+    "iconText": "<Icon className=\"w-4 h-4\" />"
+  },
+  {
+    "file": "src/pages/Haulage.tsx",
+    "wrapperLine": 1032,
+    "iconLine": 1033,
+    "wrapperText": "<div className=\"w-10 h-10 rounded-lg bg-accent text-white flex items-center justify-center shrink-0\">",
+    "iconText": "<Wrench className=\"w-5 h-5\" />"
+  },
+  {
+    "file": "src/pages/Parts.tsx",
+    "wrapperLine": 191,
+    "iconLine": 192,
+    "wrapperText": "<div className=\"w-8 h-8 bg-white/20 backdrop-blur-md rounded-[1px] flex items-center justify-center text-white group-hover:bg-accent transition-colors\">",
+    "iconText": "<Icon className=\"w-4 h-4\" />"
+  },
+  {
+    "file": "src/pages/PrivacyPolicy.tsx",
+    "wrapperLine": 128,
+    "iconLine": 129,
+    "wrapperText": "<div className=\"w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center text-primary shrink-0\">",
+    "iconText": "<MapPin className=\"w-5 h-5\" />"
+  },
+  {
+    "file": "src/pages/Repairs.tsx",
+    "wrapperLine": 138,
+    "iconLine": 139,
+    "wrapperText": "<div className=\"w-14 h-14 bg-accent/10 rounded-xl flex items-center justify-center mb-6 group-hover:bg-accent transition-colors\">",
+    "iconText": "<Icon className=\"w-7 h-7 text-primary group-hover:text-white transition-colors\" />"
+  },
+  {
+    "file": "src/pages/Search.tsx",
+    "wrapperLine": 319,
+    "iconLine": 320,
+    "wrapperText": "<div className=\"w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center text-primary group-hover:scale-110 transition-transform\">",
+    "iconText": "<Truck className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/pages/Search.tsx",
+    "wrapperLine": 325,
+    "iconLine": 326,
+    "wrapperText": "<div className=\"w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center text-accent group-hover:scale-110 transition-transform\">",
+    "iconText": "<Wrench className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/pages/Search.tsx",
+    "wrapperLine": 331,
+    "iconLine": 332,
+    "wrapperText": "<div className=\"w-12 h-12 bg-blue-500/10 rounded-full flex items-center justify-center text-blue-500 group-hover:scale-110 transition-transform\">",
+    "iconText": "<MapPin className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/pages/Search.tsx",
+    "wrapperLine": 337,
+    "iconLine": 338,
+    "wrapperText": "<div className=\"w-12 h-12 bg-emerald-500/10 rounded-full flex items-center justify-center text-emerald-500 group-hover:scale-110 transition-transform\">",
+    "iconText": "<Shield className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/pages/ServiceAreaDetails.tsx",
+    "wrapperLine": 79,
+    "iconLine": 80,
+    "wrapperText": "<div className=\"w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-accent/20 transition-colors\">",
+    "iconText": "<Icon className=\"w-6 h-6 text-primary group-hover:text-accent transition-colors\" />"
+  },
+  {
+    "file": "src/pages/ServiceAreaTowingService.tsx",
+    "wrapperLine": 50,
+    "iconLine": 51,
+    "wrapperText": "<div className=\"w-16 h-16 rounded-2xl bg-primary/10 flex items-center justify-center shrink-0 mb-6\">",
+    "iconText": "<Icon className=\"w-8 h-8 text-primary\" />"
+  },
+  {
+    "file": "src/pages/Services.tsx",
+    "wrapperLine": 182,
+    "iconLine": 183,
+    "wrapperText": "<div className=\"absolute -top-10 right-6 sm:right-8 w-14 h-14 bg-primary text-white rounded-xl flex items-center justify-center shadow-lg group-hover:bg-accent transition-colors duration-300\">",
+    "iconText": "<Icon className=\"w-7 h-7\" />"
+  },
+  {
+    "file": "src/pages/Sitemap.tsx",
+    "wrapperLine": 459,
+    "iconLine": 460,
+    "wrapperText": "<div className=\"w-10 h-10 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-slate-900 text-accent flex items-center justify-center shrink-0 shadow-sm\">",
+    "iconText": "<IconComponent className=\"w-5 h-5 sm:w-6 sm:h-6\" />"
+  },
+  {
+    "file": "src/pages/Towing.tsx",
+    "wrapperLine": 147,
+    "iconLine": 151,
+    "wrapperText": "<button disabled={formState === 'submitting'} className=\"w-full bg-primary hover:bg-black text-white font-bold py-4 rounded-[50px] transition-all shadow-lg flex items-center justify-center gap-2 mt-2 disabled:opacity-70\">",
+    "iconText": "<><Truck className=\"w-5 h-5\" /> Request Emergency Towing</>"
+  },
+  {
+    "file": "src/pages/Towing.tsx",
+    "wrapperLine": 187,
+    "iconLine": 188,
+    "wrapperText": "<div className=\"w-14 h-14 bg-accent/10 rounded-xl flex items-center justify-center mb-4 group-hover:bg-accent transition-colors\">",
+    "iconText": "<Icon className=\"w-7 h-7 text-primary group-hover:text-white transition-colors\" />"
+  },
+  {
+    "file": "src/pages/Towing.tsx",
+    "wrapperLine": 330,
+    "iconLine": 331,
+    "wrapperText": "<div className=\"w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center shrink-0 group-hover:bg-white/20 transition-colors\">",
+    "iconText": "<Icon className=\"w-6 h-6\" />"
+  },
+  {
+    "file": "src/pages/Towing.tsx",
+    "wrapperLine": 400,
+    "iconLine": 401,
+    "wrapperText": "<button className=\"w-full sm:w-auto bg-white hover:bg-dark/5 text-dark px-8 py-5 rounded-[50px] font-bold transition-all shadow-xl flex items-center justify-center gap-3 text-lg\">",
+    "iconText": "<Truck className=\"w-6 h-6\" /> Request Online"
+  },
+  {
+    "file": "src/pages/VehicleDetails.tsx",
+    "wrapperLine": 346,
+    "iconLine": 347,
+    "wrapperText": "<div className=\"w-10 h-10 bg-white rounded-xl flex items-center justify-center shrink-0\">",
+    "iconText": "<MapPin className=\"w-5 h-5 text-dark\" />"
+  },
+  {
+    "file": "src/pages/VehicleDetails.tsx",
+    "wrapperLine": 389,
+    "iconLine": 390,
+    "wrapperText": "<div className=\"w-10 h-10 bg-accent/10 rounded-xl flex items-center justify-center shrink-0\">",
+    "iconText": "<MapPin className=\"w-5 h-5 text-accent\" />"
+  },
+  {
+    "file": "src/pages/VehicleDetails.tsx",
+    "wrapperLine": 420,
+    "iconLine": 421,
+    "wrapperText": "<div className=\"w-8 h-8 bg-accent text-white rounded-[1px] flex items-center justify-center shadow-lg animate-bounce\">",
+    "iconText": "<MapPin className=\"w-4 h-4\" />"
+  }
+]
